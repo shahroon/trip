@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Rails triphub-backend: development" uuid="a2f0dada-3bf2-4699-9934-5e76a3a033ee">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:triphub-backend_development</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails triphub-backend: test" uuid="e773739c-77b4-4771-8fca-921ac59a7186">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:triphub-backend_test</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails triphub-backend: production" uuid="378dc033-bc30-4123-94ee-e4681e2ac0d6">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:triphub-backend_production</jdbc-url>
+    </data-source>
+  </component>
+</project>

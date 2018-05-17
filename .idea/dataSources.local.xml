@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails triphub-backend: development" uuid="a2f0dada-3bf2-4699-9934-5e76a3a033ee">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <first-sync>true</first-sync>
+    </data-source>
+    <data-source name="Rails triphub-backend: test" uuid="e773739c-77b4-4771-8fca-921ac59a7186">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="Rails triphub-backend: production" uuid="378dc033-bc30-4123-94ee-e4681e2ac0d6">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <user-name>triphub-backend</user-name>
+    </data-source>
+  </component>
+</project>
